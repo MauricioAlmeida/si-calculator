@@ -1,0 +1,7 @@
+#Thu Jan 04 00:36:22 BRST 2018
+base.0=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aeaf1ceb132bac031beb45f319eb5122ce21d6d0
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0b2dedbc53b239c0ed0ec42307c76d6489baef56/classes.dex
+base.1=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0b2dedbc53b239c0ed0ec42307c76d6489baef56
+file.0=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aeaf1ceb132bac031beb45f319eb5122ce21d6d0/classes.dex

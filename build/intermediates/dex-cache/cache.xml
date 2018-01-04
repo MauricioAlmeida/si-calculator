@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ba96b363a45ab0ad121f1ef4d0beb4f26ed5bd9">
+        <dex dex="/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0b2dedbc53b239c0ed0ec42307c76d6489baef56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d81993877e6258d2d5a71bf6a8325a999559db66">
+        <dex dex="/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aeaf1ceb132bac031beb45f319eb5122ce21d6d0/classes.dex" />
+    </item>
+
+</items>
