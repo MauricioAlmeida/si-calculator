@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
+    abi="x86"
     api-level="25"
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="7767122064716"
+    timestamp="17013468051052"
     token="-2235246615645281406"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="2692" />
+        duration="1073" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="414" />
+        duration="282" />
     <task
         name="verifier"
         duration="12" />
@@ -27,7 +27,7 @@
         type="MAIN" />
 
     <build
-        timestamp="7767122064716"
+        timestamp="17013468051052"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/Mauricio/Documents/Developer/SI Calculator/app/build/outputs/apk/app-debug.apk"

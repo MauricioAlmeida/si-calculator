@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Jan 04 00:36:23 BRST 2018
+#Thu Jan 04 07:31:00 BRST 2018
 8.set=DEX
 1.base=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
 1.file=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Jan 04 00:36:11 BRST 2018
+#Thu Jan 04 07:30:47 BRST 2018
 1.base=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_
 1.file=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_/resources.arsc
 2.base=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_
