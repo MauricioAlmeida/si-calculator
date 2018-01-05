@@ -1,15 +1,21 @@
 #Internal package file, do not edit.
-#Thu Jan 04 07:30:47 BRST 2018
-1.base=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_
-1.file=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+#Thu Jan 04 23:59:24 BRST 2018
 2.base=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_
-3.set=ANDROID_RESOURCE
-2.set=ANDROID_RESOURCE
-2.file=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
-count=4
-1.set=ANDROID_RESOURCE
+5.file=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.set=ANDROID_RESOURCE
 3.base=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_
-0.set=ANDROID_RESOURCE
-0.base=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_
-3.file=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_
+count=6
 0.file=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_/res/layout/sicalculator.xml
+5.base=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_/res/layout/result.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.base=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/res/resources-debug.ap_/res/layout-v17/sicalculator.xml
+0.set=ANDROID_RESOURCE

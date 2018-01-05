@@ -5,33 +5,40 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="17013468051052"
+    timestamp="41387877256553"
     token="-2235246615645281406"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1073" />
+        duration="260" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="282" />
+        duration="50" />
     <task
         name="verifier"
-        duration="12" />
+        duration="1" />
 
     <artifact
-        location="/Users/Mauricio/Documents/Developer/SI Calculator/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="17013468051052"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="38833435062223"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="/Users/Mauricio/Documents/Developer/SI Calculator/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="41387877256553"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

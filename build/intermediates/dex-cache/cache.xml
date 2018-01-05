@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1355c7d535b9e54ee64e55e575bddbcb5c188fc1">
-        <dex dex="/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0b2dedbc53b239c0ed0ec42307c76d6489baef56/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="b17ffa4488083c6c6a8c6775de339dfd0b50f42c">
+        sha1="7d44fe929d807925a73b08c170adb35b4a97a583">
         <dex dex="/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aeaf1ceb132bac031beb45f319eb5122ce21d6d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8837a341256fd8a159c32dc8a6c848b12b249b8e">
+        <dex dex="/Users/Mauricio/Documents/Developer/SI Calculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0b2dedbc53b239c0ed0ec42307c76d6489baef56/classes.dex" />
     </item>
 
 </items>
